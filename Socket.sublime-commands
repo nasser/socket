@@ -33,7 +33,7 @@
           "name": "Arcadia",
           "type": "tcp6",
           "syntax": "Packages/Clojure/Clojure.tmLanguage",
-          "port": 5555,
+          "port": 37220,
           "initial": ":hello-world\n"
         }
     }
